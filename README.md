@@ -4,6 +4,8 @@
 
 # Run and deploy your AI Studio app
 
+[![Deploy to GitHub Pages](https://github.com/wang4101410/littlegmae0180/actions/workflows/deploy-gh-pages.yml/badge.svg)](https://github.com/wang4101410/littlegmae0180/actions/workflows/deploy-gh-pages.yml)  [Visit site](https://wang4101410.github.io/littlegmae0180/)
+
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1LUuE5Nq7PVGoLodRbvNO6JN27WlLRBxq
